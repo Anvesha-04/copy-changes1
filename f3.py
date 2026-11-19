@@ -1,3 +1,3 @@
 iscitizen=False
-dt=type(iscitizen)
-print(dt)
+var=type(iscitizen)
+print(var)
